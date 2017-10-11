@@ -3,4 +3,5 @@ a=input()
 b=input()
 5
 sum=a+b
-print sum
+     print sum
+      print("the addition of numbers is,"sum) 
