@@ -2,6 +2,6 @@ a=input()
 15
 b=input()
 5
-sum=a+b
-     print sum
-      print("the addition of numbers is,"sum) 
+div=a/b
+     print div
+      print("the division of numbers is,"div) 
