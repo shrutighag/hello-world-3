@@ -2,5 +2,7 @@ a=input()
 15
 b=input()
 5
-sum=a+b
+c=input()
+2
+sum=a+b+c
 print sum
